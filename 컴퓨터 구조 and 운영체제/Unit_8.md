@@ -177,7 +177,7 @@ but. <ins>시스템 버스는 동시 사용이 불가하다</ins>
 
 (DMA 컨트롤러와 장치 컨트롤러들이 연결)
 
-ex) PCI버스, PCI Express (PCIe)버스
+ex) PCI버스, PCI Express (PCIe)버스 (: 여러입출력장치들을 PCIe버스와 연결해주는 통로)
 
 <br>
 <br>
